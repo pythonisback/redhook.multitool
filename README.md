@@ -1,1 +1,3 @@
 This is a simple multitool designed for Discord-related diagnostics and testing. It can validate and classify Discord tokens (bot or user), perform IP address lookups, and interact with webhooks for stress-testing purposes."# redhook.multitool" 
+
+![Redhook Screenshot](Redhook/redhookscreen.png)
